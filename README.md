@@ -10,7 +10,7 @@ And it'll run fine. Though, it is better if you [install it](https://greasyfork.
 
 <img src="image.png" width="120">
 
-- azul
+– azul
 
 # UI
 
